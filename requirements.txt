@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+scipy
+matplotlib
+seaborn
+
+# This file lists the dependencies required for the project.
+# It includes libraries for data manipulation, numerical computations,
